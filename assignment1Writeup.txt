@@ -1,0 +1,11 @@
+Assignment 1: Sinusoidals
+
+The code is located in the Repo, each as an individual .m file. 
+
+2b: Root, Root, Major Second, Major Third, Root, Major Third, Major Second, Fifth, Root, Root, Major Second, Major Third, Root
+
+2c: If you wanted to start the melody a major third higher at c#, your startFrequency would
+    be 554
+
+Bonus: The sudden starting and ending of sound causes the clicks. This could be resolved by
+       crossfading the end of one sinusoid and the begining of the next.
